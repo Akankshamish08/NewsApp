@@ -1,5 +1,12 @@
 # 📰 Flutter News App
 
+## 🙋‍♀️ Author
+
+**Akanksha Mishra**  
+Flutter Developer | Full Stack Enthusiast
+💡 Passionate about building clean, scalable, and beautiful mobile apps.
+---
+
 The **Flutter News App** is a beautifully designed, fully responsive mobile application developed using **Flutter** and powered by **NewsAPI.org**. It delivers real-time headlines and categorized news content, allowing users to browse, search, and explore detailed articles seamlessly. The app implements modern Flutter architecture patterns, providing efficient performance and a clean codebase that’s easy to maintain and scale.
 
 ---
@@ -52,15 +59,7 @@ The app fully meets its intended goals:
 
 ---
 
-## 🙋‍♀️ Author
 
-**Akanksha Mishra**  
-Flutter Developer | Full Stack Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(Update with your link)*  
-💡 Passionate about building clean, scalable, and beautiful mobile apps.
+## 📄 Youtube Demo Link
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📫 [NewsApp](https://youtube.com/shorts/sA0lQq9jJ7U?feature=share) 
